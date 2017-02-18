@@ -9,7 +9,7 @@ title:               Best Movies
 tagline:             'Best Movies on the go'
 description:         'Get the best movies around online!'
 url:                 http://bestmovies.github.io
-#baseurl:             http://bestmovies.github.io/
+baseurl:             'http://bestmovies.github.io/'
 paginate:            5
 
 # About/contact
